@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;  
+  
+}
+.container{
+     width:1300px; 
+    height: 510px;   
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.row-col{
+  box-shadow:0 0 5px 0;
+  width:400px;
+}
+.row-col h1{
+  text-align: center;
+}
+.input{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  
+}
+.input label{
+  display: block;
+  margin-bottom: 15px;
+  
+}
+#confirmpassword{
+  width: 90%;
+  line-height:3;
+  box-shadow:0 0 1px 0;
+}
+.row-col button{
+  height: 30px;
+  width: 70%;
+  margin-left: 50px;
+  background-color: blue;
+  color: white;
+}
+
+
